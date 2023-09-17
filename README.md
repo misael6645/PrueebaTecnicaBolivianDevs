@@ -1,6 +1,6 @@
 # PrueebaTecnicaBolivianDevs
 prueba tecnica
 
-# Run code
+## Run code
 
 node index.js
